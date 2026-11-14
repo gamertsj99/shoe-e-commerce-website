@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gamertsj99.github.io/shoe-e-commerce-website/sitemap.xml
